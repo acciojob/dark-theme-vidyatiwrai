@@ -3,14 +3,18 @@
 }
 .night{
   background-color: black;
-  color:white;
+  color:skyblue;
 }
 
 #swap{
   outline:0;
 }
 
-.button_night{
-  background-color:blue;
-  color:white; 
+
+.day {
+  background-color: #fffff; /* Light theme background color */
+  color: skyblue; /* Light theme text color */
 }
+
+
+
